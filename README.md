@@ -13,5 +13,5 @@
 * Hang Yang (s3799719)
 
 ## Records:
-* Figma:
-* Microsoft Team:
+* Figma: https://www.figma.com/file/K8pWbxZCS24jjG4ansa39v/HD-Games?node-id=0%3A1
+* Microsoft Team: 
