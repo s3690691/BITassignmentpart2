@@ -15,3 +15,4 @@
 ## Records:
 * Figma: https://www.figma.com/file/K8pWbxZCS24jjG4ansa39v/HD-Games?node-id=0%3A1
 * Microsoft Team: 
+* Git Repository: https://github.com/HangYang/BITassignmentpart2
